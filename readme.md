@@ -12,4 +12,4 @@ sudo ln -s asciidoc /usr/local/bin/asciidoc
 asciidoc <yourfile>.adoc
 ```
 
-Note: the AsciiDoc file to process has to be in the current directory!
+Note: the AsciiDoc file to process has to be under the current directory!
