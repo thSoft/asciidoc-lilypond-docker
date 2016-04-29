@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker run -v `pwd`:/home/asciidoc/work/ --rm -t asciidoc-lilypond asciidoc "$@"
