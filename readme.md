@@ -11,3 +11,5 @@ cd asciidoc-lilypond-docker
 sudo ln -s asciidoc /usr/local/bin/asciidoc
 asciidoc <yourfile>.adoc
 ```
+
+Note: the AsciiDoc file to process has to be in the current directory!
